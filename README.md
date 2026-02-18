@@ -2,7 +2,9 @@
 
 A simple Question & Answer application built with LangChain and Groq AI.
 
-![App Demo](screenshots/1.png)
+![App Demo](screenshots1.png.png)
+![Screenshot 2](screenshots2.png.png)
+![Screenshot 3](screenshots3.png.png)
 
 ## 🎯 About The Project
 
@@ -54,4 +56,5 @@ streamlit run app.py
 
 ## 📄 License
 MIT License
+
 
